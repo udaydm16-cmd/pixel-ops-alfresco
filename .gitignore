@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+project/images/
+project/database.db
+project/dense/
+project/sparse/0/
+project/cpu_mvs_final/
+project/final/
+
+*.bin
+*.db
